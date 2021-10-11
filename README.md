@@ -42,6 +42,17 @@
 ![PLANTUML_2](lab2/fL4zIyD069vxl-8bamu5Vu18M-T2DkSZETlGD2UNAmvMQ5Lq4UheAWwkHOm4Q-9VUEyV-SHhItQ796-UZoTFtklbLXexcwOYdoJPXJHoIZAosj2Lw0naD1aPFSlYKvq2EXidLebEtnXzwP512Wc4siJAjA7hLjuiLv7CrRyJKtLkoMeooMXiAKwCYcoYC-7xXaSaSmhuZGlUSCtlU7u5.png)
 
 # Лабораторная 3
+
+## DFD-диаграмма (блок:Составлять):
+![RAMUS_3_1](lab3/04_A2.png)
+
+## Диаграмма последовательности
+![PLANTUML_3_1](lab3/VL91JiD03BplAwpUym4EgBm4BII7Ig69aWqIjpOSwG4g92u8lh113Qee2L_m_eYnrT2YI3rircjxPknHfgMpXQjkKcElNLRGX5-vvGvdmv_SXWM59M_3CjH8VOU72TcIgZ8fp5LMpMDRt06oHgs9-2SiUCixxe441-9MsssUcsJkPavwd_ZvZFWHvI_Gr-or9RRE_klvorwagJ4YID6v.png)
+
+**Менеджер системы выполняет составление анкеты через веб-приложение.**
+
+[Код PLANTUML](lab3/UML.txt)
+
 # Лабораторная 4
 # Лабораторная 5
 # Лабораторная 6
