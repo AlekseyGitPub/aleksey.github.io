@@ -53,6 +53,14 @@
 
 [Код PLANTUML](lab3/UML.txt)
 
+
+## ER-диаграмма
+![PLANTUML_3_2](lab3/JL2xJiCm59thhx0w8lKF64hBmiW2iqaCjUh4rRKZ1a1gosCfKYKM-8nGjI9KVVp2zHznKpSXYwrxxZd7vxXhdG2N9PhPeKf70aJ28osivG-irHFHy0vCbiPzemtmwu5oahNE0CnzG7gQA4Gq44jeGa-C1Pk-IHqOVP7U6YuiR-CNRlqBxlmODvZxDonmXrl2PlZBSK-BAG7hTgK_5qu4.png)
+
+Вопрос является записью Базы данных, которая относится к Информационным потокам, и состоит из: Инструкций, вариантов ответа, время и даты.
+
+[Код PLANTUML2](lab3/UML2.txt)
+
 # Лабораторная 4
 # Лабораторная 5
 # Лабораторная 6
