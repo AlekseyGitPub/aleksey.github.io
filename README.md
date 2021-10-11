@@ -36,7 +36,7 @@
 Студенты, которые согласились пройти анкетирование, получают возможность ответь на вопросы в анкете
 
 ## DFD-диаграмма (блок:Управлять):
-![RAMUS_2_3](lab2/03_A0.png)
+![RAMUS_2_3](lab2/03_A1.png)
 
 ## Usecase diagram
 ![PLANTUML_2](lab2/fL4zIyD069vxl-8bamu5Vu18M-T2DkSZETlGD2UNAmvMQ5Lq4UheAWwkHOm4Q-9VUEyV-SHhItQ796-UZoTFtklbLXexcwOYdoJPXJHoIZAosj2Lw0naD1aPFSlYKvq2EXidLebEtnXzwP512Wc4siJAjA7hLjuiLv7CrRyJKtLkoMeooMXiAKwCYcoYC-7xXaSaSmhuZGlUSCtlU7u5.png)
