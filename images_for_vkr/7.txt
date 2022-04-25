@@ -1,0 +1,9 @@
+@startuml
+skinparam BackgroundColor transparent
+skinparam componentStyle uml2
+
+[Client and Web-browser] - http
+http - [Web: Сервер]
+[Web: Сервер] - TCP
+TCP - [БД Firebase: Cloud Firestore]
+@enduml
