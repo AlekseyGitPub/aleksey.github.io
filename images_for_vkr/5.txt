@@ -1,0 +1,57 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+hide circle
+hide methods
+
+class users {
+   studentId : number
+   firstName: string
+   lastName: string
+   email: string
+   password: string
+   group: string
+}
+class answer {
+   surveyId : number
+   questionId: number
+   offeredAnswerId: string
+   studentId : number
+}
+class question {
+  questionId : number
+  questionText : string
+}
+class survey_question_answer {
+   surveyId : number
+   questionId: number
+   offeredAnswerId: number
+}
+class offeredAnswer {
+  offeredAnswerId: string
+  answerText: number
+}
+class survey_Question {
+  surveyId : number
+  questionId : number
+}
+class survey {
+  surveyId : number
+  description : string
+  isOpen : boolean
+}
+class question {
+  questionId : number
+  questionText : string
+}
+
+answer --* users
+answer --* survey_question_answer 
+survey_question_answer --* offeredAnswer 
+survey_question_answer --* survey_Question 
+survey_Question --* survey
+survey_Question --* question 
+@enduml
