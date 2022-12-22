@@ -22,8 +22,9 @@
 
 [Страница проекта](https://github.com/lulu2kan/Megalul)
 
-Landing Page проекта - [TBD]  
+Landing Page проекта - [ссылка](alekseygitpub.github.io)  
 
+Также, проект был выдвинут на конкурс - [ссылка](https://idmit.ru/)
 
 ## Лабораторная 3
 В рамках третьей лаборатороной работы:
