@@ -36,7 +36,7 @@ Landing Page проекта - [ссылка](alekseygitpub.github.io)
 [Скачать сценарий для отчета](https://github.com/AlekseyGitPub/aleksey.github.io/raw/main/АИС%20ЛР6%20(6).pkt)
 
 ## Экзаменационный билет №7
-Ответ на экзаменационный билет доступен по ссылке: [билет №7](https://github.com/stankin/inet-2022/wiki/exam07) [Compare изменений](https://github.com/stankin/inet-2022/wiki/exam07/_compare/6705781faf723993295c10d39b59732455d828b5...c70f6b1eb1679a7bce991ece3578c6b511a8f1f5)
+Ответ на экзаменационный билет доступен по ссылке: [билет №7](https://github.com/stankin/inet-2022/wiki/exam07) ([Compare изменений](https://github.com/stankin/inet-2022/wiki/exam07/_compare/6705781faf723993295c10d39b59732455d828b5...c70f6b1eb1679a7bce991ece3578c6b511a8f1f5))
 
 
 # Отчеты прошлого года
